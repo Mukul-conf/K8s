@@ -11,7 +11,8 @@ Imagine Kubernetes (we call it "K8s" for short) as a super smart robot manager t
 ## 🛠️ What You'll Need
 
 - A computer with internet
-- Minikube installed (think of it as your personal Kubernetes playground)
+- Minikube installed (think of it as your personal Kubernetes playground)    curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/darwin/arm64/kubectl"
+
 - kubectl installed (this is your magic wand to talk to Kubernetes)
 - A text editor (like Notepad, but fancier)
 
